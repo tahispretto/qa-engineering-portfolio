@@ -1,9 +1,9 @@
 # QA Engineering Portfolio
 
-Este repositório demonstra minha abordagem de Qualidade de Software ao longo de todo o ciclo de desenvolvimento de um produto. Caso seja inspirado pelo mesmo, sugiro que o adapte conforme sua realidade. 
+Este repositório demonstra minha abordagem completa de Qualidade de Software ao longo de todo o ciclo de desenvolvimento de um produto.
+Não me concentro apenas em automação de testes, mas sim em todo o pensamento de qualidade que deve ser valorizado, mostrando a efetividade contínua do meu trabalho.
 
-
-Com experiência em QA, atuo não apenas na execução de testes, mas principalmente na **prevenção de defeitos**, **análise de riscos** e **estratégia de testes** desde as etapas iniciais do desenvolvimento.
+Com experiência em QA, atuo não apenas na execução de testes, mas principalmente na **prevenção de defeitos, análise de riscos e estratégia de testes**, desde as etapas iniciais do desenvolvimento até a entrega final.
 
 ## Objetivo
 
