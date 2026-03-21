@@ -1,31 +1,79 @@
 ## Planejamento de testes
 
-Este documento apresenta como ocorre o meu planejamento de testes pensando na funcionalidade, definindo o escopo da validação, critérios de entrada e saída, estratégia de execução e possíveis riscos envolvidos.
+Este documento descreve como a execução dos testes será organizada, definindo escopo, critérios, ambiente e condições necessárias para validação da funcionalidade.
 
-O objetivo é garantir que a funcionalidade seja testada de forma estruturada, reduzindo riscos e assegurando a qualidade antes da liberação para produção.
+O objetivo é garantir uma execução estruturada, com visibilidade e controle sobre a qualidade da entrega.
 
+---
 
-## Para inicio de testes, seguintes critérios devem ser atendidos:
+## Escopo de testes
 
-1. Feature implementada e disponível no ambiente de QA
-2. API disponível e estável
-3. Documentação da API atualizada
-4. Ambiente de testes configurado e acessível
+### Em escopo
+* Funcionalidade descrita na user story
+* Fluxos principais e alternativos
+* Integrações envolvidas
+
+### Fora de escopo
+* Funcionalidades não impactadas pela entrega
+* Melhorias futuras não contempladas nesta versão
+
+---
+
+## Critérios de entrada
+
+Para início da execução, os seguintes critérios devem ser atendidos:
+
+1. Feature implementada e disponível no ambiente de QA  
+2. API disponível e estável  
+3. Documentação atualizada  
+4. Ambiente acessível e configurado  
+
+---
+
+## Tipos de testes previstos
+
+- [ ] Testes funcionais  
+- [ ] Testes exploratórios  
+- [ ] Testes de integração  
+- [ ] Testes de regressão  
+
+---
 
 ## Estratégia de execução
 
-A execução dos testes será realizada considerando diferentes abordagens de validação:
+A execução será realizada de forma progressiva:
 
-1. Execução de testes funcionais
-2. Execução de testes exploratórios
-3. Testes de integração com API
-4. Testes de regressão
+1. Validação inicial dos fluxos principais  
+2. Execução de cenários alternativos  
+3. Exploração de comportamentos não previstos  
+4. Validação de integrações  
+5. Execução de regressão nos fluxos impactados  
 
-## Os testes serão considerados concluídos quando:
+---
 
-* Todos os cenários críticos forem executados
-* Não houver bugs críticos ou bloqueadores em aberto
-* Os resultados dos testes estiverem documentados / Evidênciados
-* A funcionalidade for aprovada pelo QA
+## Critérios de saída
 
-Essa estratégia busca garantir uma cobertura adequada da funcionalidade e identificar possíveis falhas antes da liberação.
+Os testes serão considerados concluídos quando:
+
+* Todos os cenários críticos forem executados  
+* Não houver defeitos críticos ou bloqueadores em aberto  
+* Evidências de teste estiverem registradas  
+* A funcionalidade for validada e aprovada  
+
+---
+
+## Riscos e pontos de atenção
+
+* Instabilidade de ambiente  
+* Dependência de APIs externas  
+* Dados inconsistentes  
+* Possível impacto em funcionalidades existentes  
+
+---
+
+## Evidências
+
+* Evidências serão registradas através de:
+  - Prints
+  - Logs
+  - Resultados de execução
