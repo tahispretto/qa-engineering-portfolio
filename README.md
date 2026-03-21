@@ -1,5 +1,8 @@
 # QA Engineering Portfolio
 
+Conheça mais sobre minha trajetória profissional aqui:
+➡️ [About Me](00-about-me/about-me.md)
+
 Este repositório demonstra minha abordagem completa de Qualidade de Software ao longo de todo o ciclo de desenvolvimento de um produto.
 Não me concentro apenas em automação de testes, mas sim em todo o pensamento de qualidade que deve ser valorizado, mostrando a efetividade contínua do meu trabalho.
 
